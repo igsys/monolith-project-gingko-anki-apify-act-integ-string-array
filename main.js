@@ -3,7 +3,6 @@ const typeCheck = require('type-check').typeCheck
 
 // Definition of the input
 const INPUT_TYPE = `{
-    success: Boolean,
     type: String,
     data: [{
         value: String,
