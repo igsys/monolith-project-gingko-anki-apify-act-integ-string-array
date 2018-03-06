@@ -41,6 +41,6 @@ Apify.main(async () => {
         input,
         data: result
     }
-    console.log('output', output)
+    // console.log('output', output)
     await Apify.setValue('OUTPUT', output)
 })
