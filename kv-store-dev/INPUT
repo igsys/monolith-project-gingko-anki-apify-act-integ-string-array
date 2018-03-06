@@ -1,3 +1,14 @@
 {
-    "message": "Hello world!"
+  "success": true,
+  "type": "img",
+  "data": [
+    {
+      "value": "75cfc34816265ac15c000077_93d3cuZmlsZXBpY2tlci.jpg",
+      "__IMTLENGTH__": 2
+    },
+    {
+      "value": "75cfc34816265ac15c000077_9jZG4uZHJpYmJibGUuY2.jpg",
+      "__IMTLENGTH__": 2
+    }
+  ]
 }
