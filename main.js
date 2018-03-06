@@ -5,7 +5,10 @@ const typeCheck = require('type-check').typeCheck
 const INPUT_TYPE = `{
     success: Boolean,
     type: String,
-    data: Array,
+    data: [{
+        value: String,
+        __IMTLENGTH__: Maybe Number
+    }],
 }`
 
 Apify.main(async () => {
